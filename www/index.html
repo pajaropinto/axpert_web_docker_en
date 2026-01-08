@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Axpert Monitor</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://unpkg.com/mqtt@4.3.2/dist/mqtt.min.js  "></script>
+</head>
+
+<body>
+    <h1>📊 Axpert Monitor</h1>
+
+    <div class="tabs">
+        <button class="tablink" onclick="openTab(event, 'Tab1')">Inverters</button>
+        <button class="tablink" onclick="openTab(event, 'Tab2')">Inverter Configuration</button>
+        <button class="tablink" onclick="openTab(event, 'Tab3')">System Configuration</button>
+    </div>
+
+    <!-- Tab 1: Grouped data -->
+    <div id="Tab1" class="tabcontent" style="display:block;">
+        <div class="columns">
+            <div class="column">
+                <h3>Inverter 1</h3>
+                <div id="inv1-data">Loading...</div>
+            </div>
+            <div class="column">
+                <h3>Inverter 2</h3>
+                <div id="inv2-data">Loading...</div>
+            </div>
+            <div class="column">
+                <h3>Totals</h3>
+                <div id="totals-data">Loading...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tab 2: Inverter configuration -->
+    <div id="Tab2" class="tabcontent">
+        <h2>⚙️ Inverter Configuration</h2>
+        <div class="inverter-columns">
+            <div class="inverter-col">
+                <h3>Inverter 1</h3>
+                <div id="inv01-config-fields"></div>
+                <div class="config-buttons">
+                    <button onclick="loadInverterConfig('inv01')">🔄 Load</button>
+                    <button onclick="saveInverterConfig('inv01')">💾 Save</button>
+                    <p id="status-inv01"></p>
+                </div>
+            </div>
+            <div class="inverter-col">
+                <h3>Inverter 2</h3>
+                <div id="inv02-config-fields"></div>
+                <div class="config-buttons">
+                    <button onclick="loadInverterConfig('inv02')">🔄 Load</button>
+                    <button onclick="saveInverterConfig('inv02')">💾 Save</button>
+                    <p id="status-inv02"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tab 3: System configuration -->
+    <div id="Tab3" class="tabcontent">
+        <h2>⚙️ System Configuration</h2>
+        <table id="config-table">
+            <tr>
+                <td>Delay between inverter reads (ms)</td>
+                <td><input type="number" id="delay_between_inverters_ms" /></td>
+            </tr>
+            <tr>
+                <td>TCP/Serial adapter IP (Inverter 1)</td>
+                <td><input type="text" id="inverter1_tcp_ip" /></td>
+            </tr>
+            <tr>
+                <td>TCP/Serial port (Inverter 1)</td>
+                <td><input type="number" id="inverter1_tcp_port" /></td>
+            </tr>
+            <tr>
+                <td>TCP/Serial adapter IP (Inverter 2)</td>
+                <td><input type="text" id="inverter2_tcp_ip" /></td>
+            </tr>
+            <tr>
+                <td>TCP/Serial port (Inverter 2)</td>
+                <td><input type="number" id="inverter2_tcp_port" /></td>
+            </tr>
+            <tr>
+                <td>MQTT broker IP</td>
+                <td><input type="text" id="mqtt_broker_ip" /></td>
+            </tr>
+            <tr>
+                <td>MQTT port (TCP)</td>
+                <td><input type="number" id="mqtt_broker_port" /></td>
+            </tr>
+            <tr>
+                <td>MQTT port (WebSocket)</td>
+                <td><input type="number" id="mqtt_broker_ws_port" /></td>
+            </tr>
+            <tr>
+                <td>MQTT username</td>
+                <td><input type="text" id="mqtt_user" /></td>
+            </tr>
+            <tr>
+                <td>MQTT password</td>
+                <td><input type="password" id="mqtt_password" /></td>
+            </tr>
+        </table>
+        <br />
+        <button onclick="loadConfig()">🔄 Load</button>
+        <button onclick="saveConfig()">💾 Save</button>
+        <p id="config-status"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
