@@ -1,0 +1,341 @@
+2025-12-31 11:59:38.056 | Initialized logger: log/axpert_monitor_20251231_115938.log
+2025-12-31 11:59:38.056 | 🚀 Starting axpert_monitor in continuous mode (reload config each cycle)...
+2025-12-31 11:59:38.056 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 11:59:38.056 |    - Delay between inverters: 1000 ms
+2025-12-31 11:59:38.056 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 11:59:38.056 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 11:59:38.056 | 🔄 New iteration (continuous mode)
+2025-12-31 11:59:40.449 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 11:59:40.449 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 11:59:40.449 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 11:59:45.449 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 11:59:45.449 |    - Delay between inverters: 1000 ms
+2025-12-31 11:59:45.449 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 11:59:45.449 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 11:59:45.449 | 🔄 New iteration (continuous mode)
+2025-12-31 11:59:47.784 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 11:59:47.785 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 11:59:47.785 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 11:59:52.785 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 11:59:52.785 |    - Delay between inverters: 1000 ms
+2025-12-31 11:59:52.785 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 11:59:52.785 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 11:59:52.785 | 🔄 New iteration (continuous mode)
+2025-12-31 11:59:55.047 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 11:59:55.047 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 11:59:55.047 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:00.047 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:00.047 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:00.048 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:00.048 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:00.048 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:02.455 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:02.455 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:02.455 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:07.456 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:07.456 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:07.456 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:07.456 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:07.456 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:09.720 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:09.720 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:09.720 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:14.720 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:14.720 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:14.720 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:14.720 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:14.721 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:17.127 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:17.127 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:17.127 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:22.128 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:22.128 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:22.128 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:22.128 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:22.128 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:24.463 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:24.463 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:24.463 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:29.463 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:29.463 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:29.463 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:29.463 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:29.463 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:31.798 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:31.798 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:31.799 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:36.799 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:36.799 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:36.799 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:36.799 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:36.799 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:39.134 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:39.134 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:39.134 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:44.134 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:44.134 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:44.134 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:44.134 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:44.134 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:44.140 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:00:49.140 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:49.141 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:49.141 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:49.141 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:49.141 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:51.419 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:51.419 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:51.419 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:00:56.419 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:00:56.419 |    - Delay between inverters: 1000 ms
+2025-12-31 12:00:56.419 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:00:56.419 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:00:56.420 | 🔄 New iteration (continuous mode)
+2025-12-31 12:00:58.756 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:00:58.756 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:00:58.756 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:01:03.757 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:03.757 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:03.757 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:03.757 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:03.757 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:03.762 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:08.762 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:08.762 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:08.762 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:08.762 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:08.763 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:08.768 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:13.768 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:13.768 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:13.768 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:13.768 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:13.769 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:13.774 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:18.774 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:18.774 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:18.774 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:18.774 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:18.775 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:18.780 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:23.780 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:23.780 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:23.780 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:23.780 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:23.781 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:23.786 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:28.787 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:28.787 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:28.787 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:28.787 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:28.787 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:28.793 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:33.793 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:33.793 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:33.793 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:33.793 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:33.793 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:33.843 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:38.843 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:38.843 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:38.843 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:38.843 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:38.843 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:38.849 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:43.849 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:43.849 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:43.849 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:43.849 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:43.849 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:43.864 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:48.864 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:48.864 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:48.864 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:48.864 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:48.865 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:48.870 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:53.871 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:53.871 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:53.871 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:53.871 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:53.871 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:53.877 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:01:58.877 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:01:58.877 |    - Delay between inverters: 1000 ms
+2025-12-31 12:01:58.877 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:01:58.877 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:01:58.877 | 🔄 New iteration (continuous mode)
+2025-12-31 12:01:58.883 | ⚠️ Error in cycle: Timeout on receive
+2025-12-31 12:02:03.883 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:03.883 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:03.883 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:03.883 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:03.883 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:06.257 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:06.257 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:06.257 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:11.258 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:11.258 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:11.258 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:11.258 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:11.258 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:13.521 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:13.521 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:13.521 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:18.522 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:18.522 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:18.522 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:18.522 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:18.522 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:20.929 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:20.929 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:20.929 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:25.929 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:25.930 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:25.930 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:25.930 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:25.930 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:28.264 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:28.264 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:28.264 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:33.264 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:33.264 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:33.265 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:33.265 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:33.265 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:35.600 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:35.600 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:35.600 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:40.601 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:40.601 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:40.601 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:40.601 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:40.601 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:42.935 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:42.936 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:42.936 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:47.936 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:47.936 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:47.936 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:47.936 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:47.936 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:50.271 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:50.271 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:50.271 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:02:55.272 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:02:55.272 |    - Delay between inverters: 1000 ms
+2025-12-31 12:02:55.272 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:02:55.272 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:02:55.272 | 🔄 New iteration (continuous mode)
+2025-12-31 12:02:57.607 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:02:57.607 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:02:57.607 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:02.607 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:02.608 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:02.608 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:02.608 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:02.608 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:04.943 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:04.943 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:04.943 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:09.943 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:09.943 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:09.943 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:09.943 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:09.944 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:12.278 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:12.278 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:12.278 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:17.279 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:17.279 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:17.279 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:17.279 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:17.279 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:19.614 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:19.614 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:19.614 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:24.614 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:24.614 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:24.614 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:24.614 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:24.614 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:26.949 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:26.949 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:26.950 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:31.950 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:31.950 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:31.950 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:31.950 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:31.950 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:34.285 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:34.285 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:34.286 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:39.286 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:39.286 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:39.286 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:39.286 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:39.286 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:41.721 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:41.722 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:41.722 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:46.722 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:46.722 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:46.722 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:46.722 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:46.722 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:49.057 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:49.057 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:49.057 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:03:54.057 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:03:54.058 |    - Delay between inverters: 1000 ms
+2025-12-31 12:03:54.058 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:03:54.058 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:03:54.058 | 🔄 New iteration (continuous mode)
+2025-12-31 12:03:56.393 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:03:56.393 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:03:56.393 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:04:01.393 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:04:01.393 |    - Delay between inverters: 1000 ms
+2025-12-31 12:04:01.393 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:04:01.393 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:04:01.393 | 🔄 New iteration (continuous mode)
+2025-12-31 12:04:03.728 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:04:03.728 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:04:03.728 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:04:08.729 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:04:08.729 |    - Delay between inverters: 1000 ms
+2025-12-31 12:04:08.729 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:04:08.729 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:04:08.729 | 🔄 New iteration (continuous mode)
+2025-12-31 12:04:11.064 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:04:11.064 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:04:11.064 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:04:16.064 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:04:16.064 |    - Delay between inverters: 1000 ms
+2025-12-31 12:04:16.064 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:04:16.064 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:04:16.065 | 🔄 New iteration (continuous mode)
+2025-12-31 12:04:18.400 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:04:18.400 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:04:18.400 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:04:23.400 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:04:23.400 |    - Delay between inverters: 1000 ms
+2025-12-31 12:04:23.400 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:04:23.400 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:04:23.401 | 🔄 New iteration (continuous mode)
+2025-12-31 12:04:25.735 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:04:25.735 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:04:25.736 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:04:30.736 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:04:30.736 |    - Delay between inverters: 1000 ms
+2025-12-31 12:04:30.736 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:04:30.736 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:04:30.736 | 🔄 New iteration (continuous mode)
+2025-12-31 12:04:33.071 | ✅ Published (retain) to: homeassistant/axpert/inv01
+2025-12-31 12:04:33.071 | ✅ Published (retain) to: homeassistant/axpert/inv02
+2025-12-31 12:04:33.071 | ✅ Published (retain) to: homeassistant/axpert/totales
+2025-12-31 12:04:38.071 | ⚙️  Configuration loaded from config/app_config.json
+2025-12-31 12:04:38.071 |    - Delay between inverters: 1000 ms
+2025-12-31 12:04:38.071 |    - Inverter TCP: 10.0.0.235:26
+2025-12-31 12:04:38.071 |    - MQTT Broker: 10.0.0.250:1883
+2025-12-31 12:04:38.071 | 🔄 New iteration (continuous mode)
