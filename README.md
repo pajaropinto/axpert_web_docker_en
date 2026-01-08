@@ -1,4 +1,4 @@
-# Axpert Web Docker (ES)
+# Axpert Web Docker (EN)
 
 Advanced monitoring and control for **Axpert / Voltronic / MPPSolar inverters** in parallel configuration, with web interface, MQTT, and Docker support.
 
